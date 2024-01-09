@@ -1,7 +1,4 @@
 # Blackjack Game
-
-![Blackjack](images/table.png)
-
 A simple web-based Blackjack game written in HTML, CSS, and JavaScript. Try your luck and see if you can beat the dealer!
 
 ## Table of Contents
